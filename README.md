@@ -21,9 +21,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyfinder&" alt="joyfinder" /></p>
 
 # Medium posts
-<table>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</table>
+
 
 
