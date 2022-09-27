@@ -17,4 +17,4 @@ jobs:
           comment_tag_name: "MEDIUM"
           commit_message: "Updated README with latest Medium sharing published"
           remove_duplicates: true
-          feed_list: "https://ste176876.medium.com/feed"
+          feed_list: "https://medium.com/feed/ste176876"
