@@ -22,6 +22,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode — Find the duplicated number](https://ste176876.medium.com/leetcode-find-the-duplicated-number-fbe22618aa04?source=rss-a1673650d0d3------2)
+- [LeetCode — Longest Palindrome](https://ste176876.medium.com/leetcode-longest-palindrome-c99fe95a9a45?source=rss-a1673650d0d3------2)
+- [LeetCode — Short Encoding of Words](https://ste176876.medium.com/leetcode-short-encoding-of-words-37018bf72d85?source=rss-a1673650d0d3------2)
+- [LeetCode — Spiral Matrix II](https://ste176876.medium.com/leetcode-spiral-matrix-ii-9a0f43c417ae?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
