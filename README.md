@@ -22,10 +22,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode — Longest Palindromic Substring &lpar;Blind Curated&rpar;](https://ste176876.medium.com/leetcode-longest-palindromic-substring-blind-curated-8190b3b86db4?source=rss-a1673650d0d3------2)
 - [LeetCode — Longest Substring without reapting characters &lpar;MSFT&rpar;](https://ste176876.medium.com/leetcode-longest-substring-without-reapting-characters-msft-75b4e58cbbf3?source=rss-a1673650d0d3------2)
 - [LeetCode — Find the duplicated number](https://ste176876.medium.com/leetcode-find-the-duplicated-number-fbe22618aa04?source=rss-a1673650d0d3------2)
 - [LeetCode — Longest Palindrome](https://ste176876.medium.com/leetcode-longest-palindrome-c99fe95a9a45?source=rss-a1673650d0d3------2)
-- [LeetCode — Short Encoding of Words](https://ste176876.medium.com/leetcode-short-encoding-of-words-37018bf72d85?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
