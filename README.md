@@ -22,10 +22,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode — Maximum sum of an hourglass &lpar;Weekly contest&rpar;](https://ste176876.medium.com/leetcode-maximum-sum-of-an-hourglass-weekly-contest-dcaf90cc14fc?source=rss-a1673650d0d3------2)
+- [LeetCode — Number of common factors &lpar;Weekly contest&rpar;](https://ste176876.medium.com/leetcode-number-of-common-factors-weekly-contest-732e7774077e?source=rss-a1673650d0d3------2)
 - [LeetCode — Rotate Image &lpar;Blind Curated&rpar;](https://ste176876.medium.com/leetcode-rotate-image-blind-curated-ae9046f8ebba?source=rss-a1673650d0d3------2)
 - [LeetCode — Longest Palindromic Substring &lpar;Blind Curated&rpar;](https://ste176876.medium.com/leetcode-longest-palindromic-substring-blind-curated-8190b3b86db4?source=rss-a1673650d0d3------2)
-- [LeetCode — Longest Substring without reapting characters &lpar;MSFT&rpar;](https://ste176876.medium.com/leetcode-longest-substring-without-reapting-characters-msft-75b4e58cbbf3?source=rss-a1673650d0d3------2)
-- [LeetCode — Find the duplicated number](https://ste176876.medium.com/leetcode-find-the-duplicated-number-fbe22618aa04?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
