@@ -22,10 +22,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode — Maximum Product Subarray &lpar;Blind Curated 6&rpar;](https://ste176876.medium.com/leetcode-maximum-product-subarray-blind-curated-6-a4af7f1cc617?source=rss-a1673650d0d3------2)
 - [LeetCode — Maximum Subarray &lpar;Blind Curated 5&rpar;](https://ste176876.medium.com/leetcode-maximum-subarray-blind-curated-5-ef3ac015cd68?source=rss-a1673650d0d3------2)
 - [LeetCode — Product of Array Except Self &lpar;Blind Curated 4&rpar;](https://ste176876.medium.com/leetcode-product-of-array-except-self-blind-curated-4-20c98ee40470?source=rss-a1673650d0d3------2)
 - [LeetCode — Contains Duplicate &lpar;Blind Curated 3 of 75&rpar;](https://ste176876.medium.com/leetcode-contains-duplicate-blind-curated-3-of-75-37a8aac38029?source=rss-a1673650d0d3------2)
-- [LeetCode — Find numbers with Even Number of Digits](https://ste176876.medium.com/leetcode-find-numbers-with-even-number-of-digits-8c3bee49aba5?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
