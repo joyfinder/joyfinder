@@ -22,10 +22,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode — Number of 1 Bits &lpar;Blind Curated 12&rpar;](https://ste176876.medium.com/leetcode-number-of-1-bits-blind-curated-12-4359abddbe40?source=rss-a1673650d0d3------2)
 - [LeetCode — Container with Most Water &lpar;Blind Curated 10&rpar;](https://ste176876.medium.com/leetcode-container-with-most-water-blind-curated-10-d9a194b6e62d?source=rss-a1673650d0d3------2)
 - [LeetCode — Search in rotated sorted array &lpar;Blind curated 7&rpar;](https://ste176876.medium.com/leetcode-search-in-rotated-sorted-array-blind-curated-7-ef7e370f6bc1?source=rss-a1673650d0d3------2)
 - [LeetCode — Maximum Product Subarray &lpar;Blind Curated 6&rpar;](https://ste176876.medium.com/leetcode-maximum-product-subarray-blind-curated-6-a4af7f1cc617?source=rss-a1673650d0d3------2)
-- [LeetCode — Maximum Subarray &lpar;Blind Curated 5&rpar;](https://ste176876.medium.com/leetcode-maximum-subarray-blind-curated-5-ef3ac015cd68?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
