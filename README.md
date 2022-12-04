@@ -22,10 +22,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode — Jump Game &lpar;Blind Curated 26&rpar;](https://ste176876.medium.com/leetcode-jump-game-blind-curated-26-e05f0bfef960?source=rss-a1673650d0d3------2)
 - [LeetCode — Unique Paths&lpar;Blind Curated 25&rpar;](https://ste176876.medium.com/leetcode-unique-paths-blind-curated-25-1ca32a651db9?source=rss-a1673650d0d3------2)
 - [LeetCode — Decode ways &lpar;Blind Curated 24&rpar;](https://ste176876.medium.com/leetcode-decode-ways-blind-curated-24-b5e1a9683f6f?source=rss-a1673650d0d3------2)
 - [後端軟功常見面試問題 — &lpar;一&rpar;](https://ste176876.medium.com/%E5%BE%8C%E7%AB%AF%E8%BB%9F%E5%8A%9F%E5%B8%B8%E8%A6%8B%E9%9D%A2%E8%A9%A6%E5%95%8F%E9%A1%8C-%E4%B8%80-c7e4a25bf6a8?source=rss-a1673650d0d3------2)
-- [LeetCode — House Robber II &lpar;Blind Curated 23&rpar;](https://ste176876.medium.com/leetcode-house-robber-ii-blind-curated-23-91dac0c9a8df?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
