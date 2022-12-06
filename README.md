@@ -22,10 +22,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode — Course Schedule &lpar;Blind Curated 28&rpar;](https://ste176876.medium.com/leetcode-course-schedule-blind-curated-28-8b286bb6a790?source=rss-a1673650d0d3------2)
 - [LeetCode — Clone Graph &lpar;Blind Curated 27&rpar;](https://ste176876.medium.com/leetcode-clone-graph-blind-curated-27-e6ac0b67fe03?source=rss-a1673650d0d3------2)
 - [LeetCode — Jump Game &lpar;Blind Curated 26&rpar;](https://ste176876.medium.com/leetcode-jump-game-blind-curated-26-e05f0bfef960?source=rss-a1673650d0d3------2)
 - [LeetCode — Unique Paths&lpar;Blind Curated 25&rpar;](https://ste176876.medium.com/leetcode-unique-paths-blind-curated-25-1ca32a651db9?source=rss-a1673650d0d3------2)
-- [LeetCode — Decode ways &lpar;Blind Curated 24&rpar;](https://ste176876.medium.com/leetcode-decode-ways-blind-curated-24-b5e1a9683f6f?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
