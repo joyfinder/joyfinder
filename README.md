@@ -22,10 +22,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode — Insert Interval &lpar;Blind Curated 35&rpar;](https://ste176876.medium.com/leetcode-insert-interval-blind-curated-35-e7b714efde4?source=rss-a1673650d0d3------2)
 - [LeetCode — Longest consecutive sequence &lpar;Blind Curated 31&rpar;](https://ste176876.medium.com/leetcode-longest-consecutive-sequence-blind-curated-31-c2481087979f?source=rss-a1673650d0d3------2)
 - [LeetCode — Number of Islands &lpar;Blind Curated 30&rpar;](https://ste176876.medium.com/leetcode-number-of-islands-blind-curated-30-b344a3a8fb34?source=rss-a1673650d0d3------2)
 - [LeetCode — Pacific Atlantic Water Flow &lpar;Blind Curated 29&rpar;](https://ste176876.medium.com/leetcode-pacific-atlantic-water-flow-blind-curated-29-6626bc0bf64f?source=rss-a1673650d0d3------2)
-- [LeetCode — Course Schedule &lpar;Blind Curated 28&rpar;](https://ste176876.medium.com/leetcode-course-schedule-blind-curated-28-8b286bb6a790?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
