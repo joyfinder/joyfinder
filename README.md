@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Steven Lu</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h1 align="center">👋</h1>
+<h3 align="center">Junior SE</h3>
 
-- 🔭 I’m currently working on **Golang side project**
+- 🖥️ Developing side-project
 
-- 🌱 I’m currently learning **Golang, Nodejs**
+- 🌱 I’m currently learning **DevOps CI/CD lifecycle**
 
 - 📝 I regularly write articles on [https://medium.com/@ste176876](https://medium.com/@ste176876)
-
-- 💬 Ask me about **java, git**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
