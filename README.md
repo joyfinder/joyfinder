@@ -20,10 +20,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [『Effective debugging』 軟體與系統除錯的66個具體作法 — 筆記 &lpar;1&rpar;](https://ste176876.medium.com/effective-debugging-%E8%BB%9F%E9%AB%94%E8%88%87%E7%B3%BB%E7%B5%B1%E9%99%A4%E9%8C%AF%E7%9A%8466%E5%80%8B%E5%85%B7%E9%AB%94%E4%BD%9C%E6%B3%95-%E7%AD%86%E8%A8%98-1-1e63d1645c75?source=rss-a1673650d0d3------2)
 - [Docker 簡介 &amp; 學習筆記— 1](https://ste176876.medium.com/docker-%E7%B0%A1%E4%BB%8B-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-1-d2bdb745c241?source=rss-a1673650d0d3------2)
 - [LeetCode — Set Matrix Zeroes](https://ste176876.medium.com/leetcode-set-matrix-zeroes-e6723c48d9d9?source=rss-a1673650d0d3------2)
 - [LeetCode — Reorder List &lpar;Blind Curated 45&rpar;](https://ste176876.medium.com/leetcode-reorder-list-blind-curated-45-c87e30f53ff6?source=rss-a1673650d0d3------2)
-- [LeetCode — Remove Nth Node From End of List](https://ste176876.medium.com/leetcode-remove-nth-node-from-end-of-list-695462f9e0b2?source=rss-a1673650d0d3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
