@@ -1,10 +1,8 @@
 <h1 align="center">👋</h1>
 
-- 🖥️ Developing side-project
-
-- 🌱 I’m currently learning **DevOps CI/CD lifecycle**
-
-- 📝 I regularly write articles on [https://medium.com/@ste176876](https://medium.com/@ste176876)
+- 🛠️ Experienced in designing both iOS App & web application, and optimized software infra for better scalability and performance
+- 🚀 Actively exploring cutting-edge technologies like cloud-native architectures and automation tools to enhance development workflows
+- 📝 Write articles on [https://medium.com/@ste176876](https://medium.com/@ste176876)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
